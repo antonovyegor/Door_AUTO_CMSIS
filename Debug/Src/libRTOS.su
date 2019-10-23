@@ -1,0 +1,8 @@
+libRTOS.c:40:6:vTaskSendToUART	24	static
+libRTOS.c:77:6:vTaskBlink	16	static
+libRTOS.c:90:6:vTaskHello	16	static
+libRTOS.c:100:6:vTaskADCConvert	24	static
+libRTOS.c:125:19:strsub	24	static
+libRTOS.c:136:6:vTaskServo	16	static
+libRTOS.c:157:6:vTaskPowerManegment	16	static
+libRTOS.c:168:6:vTaskCmdExe	40	static

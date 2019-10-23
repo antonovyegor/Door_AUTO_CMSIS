@@ -1,0 +1,5 @@
+libADC.c:9:6:ADC_Mode_Init	4	static
+libADC.c:51:6:ADC_POWER	16	static
+libADC.c:60:6:ADC_Calibrate	4	static
+libADC.c:69:6:ADC_GPIO_Init	4	static
+libADC.c:89:6:ADC_DMA_Init	4	static

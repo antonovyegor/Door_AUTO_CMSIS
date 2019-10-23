@@ -1,0 +1,4 @@
+libEXT.c:3:6:GPIO_EXT_Init	4	static
+libEXT.c:11:6:GPIO_Rele_Init	4	static
+libEXT.c:21:6:Rele	16	static
+libEXT.c:28:6:ExtPWR	16	static

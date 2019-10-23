@@ -1,0 +1,9 @@
+libTIM.c:3:6:PWM_Init_TIM4	4	static
+libTIM.c:8:6:PWM_Init_TIM2	4	static
+libTIM.c:15:6:PWM_Servo_Init_TIM3	4	static
+libTIM.c:45:6:PWM_Level_TIM3_Ch1	16	static
+libTIM.c:48:6:PWM_Level_TIM3_Ch2	16	static
+libTIM.c:51:6:PWM_Level_TIM3_Ch3	16	static
+libTIM.c:54:6:PWM_Level_TIM3_Ch4	16	static
+libTIM.c:58:6:Encoder_Init_TIM4	4	static
+libTIM.c:88:6:PWM_Power_Init_TIM3	4	static
